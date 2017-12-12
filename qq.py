@@ -1,3 +1,4 @@
-print ‘qwefwetg’
-print ‘124123515’
+
+print 12412351
 print '222222222'
+print 88888888888
